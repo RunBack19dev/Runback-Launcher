@@ -12,9 +12,11 @@ RunBack 19 is a Windows launcher for the NBA Live 19 mod project. It brings the 
 
 ## Status
 
-**[Download RunBack 19 v0.1.1](https://github.com/RunBack19dev/Runback-Launcher/releases/tag/v0.1.1)** is available. The release contains the launcher and about 210 MB of game modification patches, including the shared Head 1 appearance. Friend connections, full team assignment, and selectable 15/21 finish rules are still in development.
+**[Download RunBack 19 v0.1.2](https://github.com/RunBack19dev/Runback-Launcher/releases/tag/v0.1.2)** is available. The release contains the launcher and about 210 MB of game modification patches, including the shared Head 1 appearance. Friend connections, full team assignment, and selectable 15/21 finish rules are still in development.
 
-Version 0.1.1 fixes game repair being disabled and the false requirement for local texture exports. The five existing game-mod patches are retained unchanged.
+Version 0.1.2 adds the red VH RunBack 19 Windows app icon. Existing users can get it through **Updates → Launcher only**.
+
+The included 0.1.1 fixes address game repair being disabled and the false requirement for local texture exports. The five existing game-mod patches are retained unchanged.
 
 ## Installation
 
