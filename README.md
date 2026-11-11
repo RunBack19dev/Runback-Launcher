@@ -12,11 +12,15 @@ RunBack 19 is a Windows launcher for the NBA Live 19 mod project. It brings the 
 
 ## Status
 
-**[Download RunBack 19 v0.1.0](https://github.com/RunBack19dev/Runback-Launcher/releases/tag/v0.1.0)** is available. The release contains the launcher and about 210 MB of game modification patches, including the shared Head 1 appearance. Friend connections, full team assignment, and selectable 15/21 finish rules are still in development.
+**[Download RunBack 19 v0.1.1](https://github.com/RunBack19dev/Runback-Launcher/releases/tag/v0.1.1)** is available. The release contains the launcher and about 210 MB of game modification patches, including the shared Head 1 appearance. Friend connections, full team assignment, and selectable 15/21 finish rules are still in development.
+
+Version 0.1.1 fixes game repair being disabled and the false requirement for local texture exports. The five existing game-mod patches are retained unchanged.
 
 ## Installation
 
-Download and extract **RunBack19-Setup.zip** from the release. Open RunBack 19, select your NBA Live 19 folder in **Game Files**, and choose your shadPS4 executable in **Settings**. The game folder must contain `eboot.bin` and the BIG archives.
+Download and extract **RunBack19-Setup.zip** from the release. Open RunBack 19, select your NBA Live 19 folder in **Game Files**, and choose your shadPS4 executable in **Settings**. The game folder must contain `eboot.bin` and the BIG archives. Close the game, then use **Game Files → Update / repair**. A scan is optional.
+
+If upgrading from 0.1.0 and repair is disabled or mentions `generic001_head_col.gnf`, close RunBack 19 and extract the new **RunBack19-Setup.zip** over the existing launcher folder. Reopen it and run Update / repair.
 
 Game patches require a supported original NBA Live 19 installation. Existing updater backups are checked automatically for later updates. The launcher reports an unsupported original instead of applying a patch to a different file.
 
