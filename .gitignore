@@ -1,0 +1,10 @@
+# Personal files and signing keys never belong in the release repository.
+settings.json
+installation.json
+runback19-ui.json
+*.log
+*.dpapi
+*private*key*
+Backups/
+Tests/
+Releases/
