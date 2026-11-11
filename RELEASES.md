@@ -10,7 +10,7 @@ The owner prepares a release from the current working game installation in the l
 6. Review the release and publish it as the latest stable release. Keep earlier releases available because later manifests can reuse their unchanged payloads.
 7. In RunBack 19, check for updates and verify the release version before downloading.
 
-Version 0.1.1 is the latest repair hotfix. Keep v0.1.0 available because its five mod-patch payloads are reused. File checks use the signed canonical manifest, and repair downloads reconstruct supported original game files into verified RunBack 19 versions.
+Version 0.3.0 is the current release, combining the dashboard, Builds tools, trait fixes, jumpshot landings, and shot-speed controls with the existing shared game mods. Keep v0.1.0 available because its unchanged anim.big and graphics_demo.big patch payloads are reused. Earlier repair fixes are retained. Friend joining/P2P is still in development. File checks use the signed canonical manifest, and repair downloads reconstruct supported original game files into verified RunBack 19 versions.
 
 ## Applying an update
 
